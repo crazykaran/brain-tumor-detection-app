@@ -81,4 +81,4 @@ Contributions are welcome! Please create a pull request with your changes.
 
 
 ## Deployment
-will be added soon
+[Brain Tumer Detection App](https://brain-tumor-detection-app.onrender.com/)
