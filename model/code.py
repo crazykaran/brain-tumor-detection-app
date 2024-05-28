@@ -159,7 +159,7 @@ pred = model.predict(input_arr)[0][0]
 
 train_data.class_indices
 
-if(pred == 0):
+if(pred > 0.5):
   print(" The MRI image has a tumor")
 else :
   print(" The MRI image is a Healthy image")
